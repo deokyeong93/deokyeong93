@@ -33,8 +33,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:deokyeong1020@kakao.com"><img src="https://img.shields.io/badge/-deokyeong1020@kakao.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/heodeok/"><img src="https://img.shields.io/badge/-@heodeok-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<!-- <a href="mailto:deokyeong1020@kakao.com"><img src="https://img.shields.io/badge/-deokyeong1020@kakao.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> -->
+<!-- <a href="https://www.instagram.com/heodeok/"><img src="https://img.shields.io/badge/-@heodeok-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
 </p>
 
 -----
