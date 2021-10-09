@@ -6,7 +6,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 프론트엔드 개발자 입니다.</br>
-✉️ &nbsp;문의사항은 deokyeong1020@kakao.com으로 보내주세요!
+<!-- ✉️ &nbsp;문의사항은 deokyeong1020@kakao.com으로 보내주세요! -->
 
 
 
